@@ -1,4 +1,4 @@
-# github-ruby-integration
+# Integração GitHub utilizando Ruby
 Integração github com Ruby
 
 
